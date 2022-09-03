@@ -1,12 +1,9 @@
+### what is this?
+
 hello there!
-you can connect me one [Github](https://github.com/sign-bit) (there is nothing much btw), and [Instagram](https://www.instagram.com/nitin85522)
+you can connect me on [Instagram](https://www.instagram.com/nitin85522) and [Github](https://github.com/sign-bit) (there is nothing much btw)
 
-![image](https://photos.app.goo.gl/ZCZ9A4UcNsxsKgkw5)
-
-# This is written for test purpose:
-> a
-> b
-> c
+![image]([https://photos.app.goo.gl/ZCZ9A4UcNsxsKgkw5](https://photos.app.goo.gl/8GneNzicy785o1Cc7)
 
 # a list of top rated coders on codeforces:
 - tourist
@@ -16,5 +13,7 @@ you can connect me one [Github](https://github.com/sign-bit) (there is nothing m
 
 another list (nested this time): \n
 - abc
-  - bca
-  - cab
+- bca
+- cab
+
+
